@@ -35,7 +35,7 @@
   - 选择理由：Parquet 是列式存储格式，压缩效率高，支持类型 Schema，读取速度快，适合金融时间序列数据的存储和分析。
 
 ### GitHub 仓库
-[ GitHub 仓库链接，格式：https://github.com/lilyliang666/dshw-p02]
+[ GitHub 仓库链接，格式：https://github.com/lilyliang666/dshw-p01]
 
 ### 如何运行
 1. 安装依赖：`pip install -r requirements.txt`
