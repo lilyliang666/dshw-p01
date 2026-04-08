@@ -1,0 +1,12 @@
+
+pandas&gt;=2.0.0
+numpy&gt;=1.24.0
+matplotlib&gt;=3.7.0
+seaborn&gt;=0.12.0
+statsmodels&gt;=0.14.0
+akshare&gt;=1.12.0
+baostock&gt;=0.8.8
+wbgapi&gt;=1.0.0
+pyarrow&gt;=14.0.0
+jupyter&gt;=1.0.0
+
